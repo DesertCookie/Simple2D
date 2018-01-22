@@ -4,7 +4,7 @@ Simple2D is einfache Spielengine für kleine 2D Spiele und verfügt über eine d
 
 [Wiki](https://github.com/DesertCookie/Simple2D/wiki)
 
-[Documentation](https://desertcookie.github.io/Simple2D)
+[Dokumentation](https://desertcookie.github.io/Simple2D)
 
 ___
 
